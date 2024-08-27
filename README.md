@@ -1,7 +1,5 @@
 # 4253B Bezier Curve Visualizer 
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Installation
 
 1. Install [python](https://www.python.org/downloads/)
